@@ -68,8 +68,7 @@ License: You must have a valid license purchased only from themeforest(the above
     <link href="{{asset('assets\mywebsite\css\style.css')}}" rel="stylesheet">
 </head>
 
-<body id="body" class="wide-layout ">
-5425
+<body id="body" class="wide-layout ">695
 <!--[if lt IE 9]>
 <p class="browserupgrade alert-error">
     You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.
