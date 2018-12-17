@@ -69,7 +69,7 @@ License: You must have a valid license purchased only from themeforest(the above
 </head>
 
 <body id="body" class="wide-layout ">
-6227
+6228
 <!--[if lt IE 9]>
 <p class="browserupgrade alert-error">
     You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.
