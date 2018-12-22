@@ -41,6 +41,9 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- ––––––––––––––––––––––––––––––––––––––––– -->
     <!-- PAGE FAVICON                              -->
     <!-- ––––––––––––––––––––––––––––––––––––––––– -->
+
+    @yield('css')
+
     <link rel="apple-touch-icon" href="{{asset('assets\mywebsite\images\favicon\apple-touch-icon.png')}}">
     <link rel="icon" href="{{asset('assets\mywebsite\images\favicon\favicon.ico')}}">
     <!-- ––––––––––––––––––––––––––––––––––––––––– -->
